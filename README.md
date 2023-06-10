@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ehuang1998
+- 👋 Hi, I’m Eric!
 - 👀 I’m interested in Full Stack Development, ML and AI!
 - 🌱 I’m currently learning HTML/CSS/Javascript
 - 💞️ I’m looking to collaborate on any web development projects!
