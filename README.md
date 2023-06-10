@@ -31,7 +31,7 @@
 I am an Engineer from Canada! 🍁
 
 - I’m interested in Full Stack Development, ML and AI!
-- Currently learning HTML/CSS/Javascript
+- Currently learning HTML/CSS/JavaScript
 - Looking to collaborate on any web dev projects!
 
 ---
