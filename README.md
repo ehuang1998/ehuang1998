@@ -32,21 +32,21 @@ I am an Engineer from Canada 🍁 with a strong foundation in machine learning, 
 
 💡 What I'm Into:
 
-Building full-stack apps with Next.js, React, Node.js, and PostgreSQL
+* Building full-stack apps with Next.js, React, Node.js, and PostgreSQL
 
-Experimenting with LLMs and AI tools to build creative or useful apps
+* Experimenting with LLMs and AI tools to build creative or useful apps
 
-Diving into cloud platforms like GCP and container orchestration with Kubernetes
+* Diving into cloud platforms like GCP and container orchestration with Kubernetes
 
-Working on ML projects involving health data, knowledge graphs, and stock market simulations
+* Working on ML/DL projects involving health data, knowledge graphs, and stock market simulations
 
 🚀 Current Projects:
 
-An AI-powered mental health journaling app
+* An AI-powered mental health journaling app
 
-A machine learning model to predict relapse based on Oura Ring biomarkers
+* A machine learning model to predict addiction relapse based on Oura Ring biomarkers
 
-A stock market AI agent for QQQ trend analysis using prompt engineering
+* A stock market AI agent for QQQ trend analysis using prompt engineering
 
 📚 Always learning something new—whether it's a new framework, prompt technique, or cloud tool.
 
