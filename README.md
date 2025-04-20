@@ -28,7 +28,29 @@
 
 ### :man_technologist: About Me :
 
-I am an Engineer from Canada! 🍁
+I am an Engineer from Canada 🍁 with a strong foundation in machine learning, cloud computing, and full-stack web development. I love building tools that are both smart and scalable—whether that's AI-powered web apps or data-driven backend systems.
+
+💡 What I'm Into:
+
+Building full-stack apps with Next.js, React, Node.js, and PostgreSQL
+
+Experimenting with LLMs and AI tools to build creative or useful apps
+
+Diving into cloud platforms like GCP and container orchestration with Kubernetes
+
+Working on ML projects involving health data, knowledge graphs, and stock market simulations
+
+🚀 Current Projects:
+
+An AI-powered mental health journaling app
+
+A machine learning model to predict relapse based on Oura Ring biomarkers
+
+A stock market AI agent for QQQ trend analysis using prompt engineering
+
+📚 Always learning something new—whether it's a new framework, prompt technique, or cloud tool.
+
+Let’s connect and build something cool!
 
 ---
 
